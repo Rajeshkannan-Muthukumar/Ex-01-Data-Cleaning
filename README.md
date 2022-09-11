@@ -128,3 +128,6 @@ d.info()
 ![2-5](https://user-images.githubusercontent.com/93901857/189519399-42c9540f-31d6-4748-8f4b-5bbb74719959.jpg)
 ![2-6](https://user-images.githubusercontent.com/93901857/189519403-5b58b5a5-953e-4ebf-865b-039929d92a03.jpg)
 ![2-7](https://user-images.githubusercontent.com/93901857/189519404-328f0ab6-2ee8-4bde-8fc1-c0a0a856a030.jpg)
+
+# Result
+The given data is read and data cleaning is performed and the cleaned data is saved to a file.
